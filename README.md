@@ -40,7 +40,10 @@ install requirements
 ```
 
 # Usage #
-
+```bash
+python3 human_readable_time.py
+```
 # Athor #
+[Gakuru Alex](https://github.com/GakuruAlex)
 
 
