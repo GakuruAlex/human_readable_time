@@ -11,13 +11,14 @@ The maximum time never exceeds 359999 (99:59:59)
 
 clone this repo
 
-```bash
+```bash 
+git clone git@github.com:GakuruAlex/human_readable_time.git
 ```
 
 change directory into the project dir
 
 ```bash
-    cd 
+    cd  human_readable_time
 ```
 
 create virtual environment
